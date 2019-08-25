@@ -1,3 +1,3 @@
 # This repository is for academic purpose.
 
-Practical 1 part 1,2
+P1 part 1 & 2, P2Q4, P3Q4, P4Q3, P5Q2.
